@@ -10,3 +10,4 @@ migrate = Migrate()
 bcrypt = Bcrypt()
 login_manager = LoginManager()
 csrf = CSRFProtect()
+
