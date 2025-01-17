@@ -1,0 +1,8 @@
+.idea/
+env/
+**/__pycache__/
+migrations/
+.env
+.flaskenv
+flask_session/
+logs/
